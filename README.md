@@ -2,7 +2,7 @@
 Parse a user entered string into a valid Lucene query
 
 # What it supports
-Just the basics so far, but trying to convert a Google search style syntax to a valid Lucene query.
+Just the basics so far, but trying to convert a Google search style syntax to a valid Lucene query for use with Azure Search or AWS Cloudsearch
 
 \+ The next word or phrase must be in the results
 
